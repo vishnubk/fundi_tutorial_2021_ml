@@ -1,5 +1,5 @@
-# fundi_tutorial_2021_ml
-Hands-On Machine Learning Tutorial for Pulsar Candidate Classification
+# Fundi Tutorials 2021
+# Hands-On Machine Learning Tutorial for Pulsar Candidate Classification
 
 General Download Instructions.
 
